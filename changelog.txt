@@ -1,0 +1,41 @@
+-Changelog-Geschichte
+Ausf.A
+ -Code, div. Berechnungen
+ -python Grundsätze implementiert
+
+Ausf.A-1
+ -Dateien Schreiben und Lesen
+ -Inhalte weiter verarbeiten
+
+Ausf.A-2
+ -Dateien auf Verfügbarkeit checken
+ -cleanup #1
+
+Ausf.A-3
+ -Wartungen zurücksetzen
+ -Wartungen Kategorisieren, 0,1,2
+
+Ausf.A-4
+ -Wartungen melden bei "bald fällig", "Fälligkeit überschritten" (derzeit nur im Addon)
+
+Ausf.A-5
+ -GUI implementierung
+ -cleanup #2
+
+Ausf.A-6
+ -GUI Steuerung realisiert
+ -Animationen
+
+Ausf.A-7
+ -Icons und Hintergrundbild
+
+Ausf.B-1
+ -TCP Abfrage für Kilometerstand
+ -cleanup #3
+ -Abfrage für reset
+ -Intervall für Inspektion II auf 50tkm bei installation, ist aber frei wählbar
+
+Ausf.B-2
+ -GUI etwas optimiert, animierte Bilder getestet (noch nciht implementiert)
+ -settings.xml hinzugefügt, Konfiguration aus dem Addon heraus möglich
+ -service.py realisiert, DSA zeigt nun nach dem hochfahren an ob ein oder mehrer Service fällig sind
